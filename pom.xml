@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>video-streaming-chat</name>
+	<name>Video streaming chat</name>
 	<description>Simulation of video streaming with not real time videos.</description>
 
 	<parent>
